@@ -1,0 +1,8 @@
+{
+  "botToken": "telegram_bot_token",
+  "git": {
+    "host": "gitlab_host_address",
+    "token": "gitlab_access_token",
+    "groupId": "your_projects_group_id"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "gitlabnotif",
+  "version": "1.0.0",
+  "description": "You can get gitlab merge requests notification on telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohsen Fallahnejad",
+  "license": "ISC",
+  "dependencies": {
+    "@gitbeaker/node": "^35.1.0",
+    "nconf": "^0.11.3",
+    "node-cron": "^3.0.0",
+    "telegram-bot-api": "^1.3.3"
+  }
+}
