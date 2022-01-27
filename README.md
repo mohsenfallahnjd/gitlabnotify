@@ -10,3 +10,5 @@ For start using this, you should get telegram bot token from [@BotFather](https:
 ## Run
 ### Use this command to run:
     node index.js
+---
+You can run this with [pm2](https://pm2.keymetrics.io/) and enjoy 😃
